@@ -1,0 +1,11 @@
+Aquí esta el enlace de la base de datos utilizada para el desarrollo del proyecto.
+No se coloca directamente por la restricción de tamaño de los archivos
+
+Nombre: Railway Air Compressor Dataset.
+Registros: 1,516,948 observaciones
+Variables: 15 señales sensóricas (presiones, temperatura, corriente, señales binarias de válvulas, etc.)
+Variable objetivo: Failure (1 si hubo falla, 0 si no)
+
+Fuente: UCI Machine Learning Repository
+
+https://archive.ics.uci.edu/dataset/791/metropt+3+dataset
